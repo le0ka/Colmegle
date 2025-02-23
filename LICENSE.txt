@@ -26,4 +26,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 If a user violates this license, their rights under this license are automatically terminated, and the author reserves the right to pursue legal action against any unauthorized commercial use.
 7. Contact for Commercial Licensing
 
-If you wish to use this Software for commercial purposes, you must obtain a separate commercial license from the author. Contact [your contact info] for details.
+If you wish to use this Software for commercial purposes, you must obtain a separate commercial license from the author. Contact leohkaiser@gmail.com for details.
