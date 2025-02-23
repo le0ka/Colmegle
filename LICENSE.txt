@@ -6,21 +6,24 @@ Version 1.0
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, merge, publish, and distribute the Software for non-commercial purposes only, subject to the following conditions:
 2. Non-Commercial Use Only
 
-You may not use the Software, in whole or in part, for commercial purposes, including but not limited to:
+This software may not be used, in whole or in part, for commercial purposes, including but not limited to:
 
     Selling, licensing, or distributing the Software for a fee.
     Using the Software to provide services or products for profit.
     Incorporating the Software into a product or service that is sold or monetized.
 
-3. Attribution
+3. Author’s Commercial Rights
+
+The original author of the Software retains full commercial rights and may use, sell, license, or distribute the Software for commercial purposes. Third parties are strictly prohibited from commercial use without obtaining explicit written permission from the author.
+4. Attribution
 
 Any use of the Software must include the original copyright notice and this license.
-4. No Warranty
+5. No Warranty
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-5. Enforcement & Termination
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+6. Enforcement & Termination
 
-If you violate this license, your rights under this license are automatically terminated. The author reserves the right to pursue legal action against any unauthorized commercial use.
-6. Contact for Commercial Licensing
+If a user violates this license, their rights under this license are automatically terminated, and the author reserves the right to pursue legal action against any unauthorized commercial use.
+7. Contact for Commercial Licensing
 
-If you wish to use this Software for commercial purposes, please contact the authors at leohkaiser@gmail.com or nataliaascarlett137@gmail.com to obtain a separate commercial license.
+If you wish to use this Software for commercial purposes, you must obtain a separate commercial license from the author. Contact [your contact info] for details.
