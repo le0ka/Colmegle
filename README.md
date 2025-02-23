@@ -1,4 +1,4 @@
-# MyProject
+# Colmegle
 
 🚀 In da clurb, we all fam!
 
