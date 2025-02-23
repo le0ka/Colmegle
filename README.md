@@ -1,9 +1,10 @@
-Hi there, this is like omegle but only for college students :))
+# MyProject
 
-In da clurb, we all fam!
+🚀 In da clurb, we all fam!
 
-This software is licensed under the Non-Commercial Open Source License (NCOSL). Commercial use is prohibited without explicit permission from the author.
+## License
 
-Copyright (c) 2025 Leo Kazmier Kaiser, Natalia Jamula 
-Licensed under the Non-Commercial Open Source License (NCOSL)
+This software is released under the **Non-Commercial Open Source License (NCOSL)**.  
+🔴 **Commercial use is strictly prohibited.** If you wish to use this software for commercial purposes, you must obtain a separate license from the author.
 
+📜 See the full [LICENSE](LICENSE) file for details.
