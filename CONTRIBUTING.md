@@ -1,4 +1,4 @@
-## Contributing to MyProject
+## Contributing to Colmegle 
 
 Thank you for your interest in contributing!  
 - All contributions must comply with the **Non-Commercial Open Source License (NCOSL)**.
