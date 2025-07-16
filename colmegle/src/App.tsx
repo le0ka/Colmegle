@@ -8,7 +8,7 @@ const App: React.FC = () => {
     <div className="app">
       <header className="header">
         <h1>Clurb WashU</h1>
-        <p>Talk With Fellow WashU Students!</p>
+        <p>In the Clurb, we all Bears!</p>
       </header>
       <main className="main-content">
         <VideoChat />
